@@ -1,0 +1,25 @@
+﻿body {
+    background-image: url("https://images.wallpaperscraft.com/image/code_lines_programming_130775_5760x3840.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Title {
+     font-family: 'Arial Black';
+    color: White;
+    font-size: 75px;
+    padding-bottom: 50px;
+    padding-left: 250px;
+    padding-top: 100px;
+    background-color: black;
+    margin-top: 0px;
+    opacity: 0.4;
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.l1 {
+     color: orangered;
+     font-family:'Courier New'
+ }
